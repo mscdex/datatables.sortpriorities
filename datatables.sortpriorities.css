@@ -1,0 +1,6 @@
+table thead tr th div.dataTable-sort-priority {
+  position: relative;
+  top: -7px;
+  float: right;
+  font-size: 9px;
+}
